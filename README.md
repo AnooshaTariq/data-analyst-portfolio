@@ -1,18 +1,11 @@
 # Data Analyst
 
-## Technical Skills: 
-Ms Excel
-Power BI 
-Tableau 
-SQL Python
-Jupyter Notebook
-
 ### Education
 Chartered Accountancy | Institute of Chartered Accountants of Pakistan
 Data Analysis | Hadi E-Learning (_March 2024_)
 
 ### Work Experience
-**Freelancer-Upwork**
+Freelancer-Upwork
 
 ## Projects
 
