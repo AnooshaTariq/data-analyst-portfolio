@@ -15,6 +15,8 @@ Freelancer-Upwork
 - **Skills**: Data wrangling, advanced visualization techniques.
 - **Hashtags**: #Excel #DataVisualization #PivotTables
 
+
+
 ### 📈 Project 2: Power BI Development
 - **Description**: Spearheaded the development of Power BI dashboards for comprehensive sales analysis, empowering stakeholders with real-time visibility into sales performance and trends.
 - **Tools**: Power BI Desktop, DAX.
@@ -44,5 +46,5 @@ Freelancer-Upwork
 - **Tools**: Jupyter Lab, pandas, seaborn.
 - **Skills**: Data manipulation, interactive visualization.
 - **Hashtags**: #JupyterLab #DataExploration #DataManipulation
-- ![Uploading pairplot_retina.png…]()
+
 
