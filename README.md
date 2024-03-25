@@ -46,5 +46,5 @@ Freelancer-Upwork
 - **Tools**: Jupyter Lab, pandas, seaborn.
 - **Skills**: Data manipulation, interactive visualization.
 - **Hashtags**: #JupyterLab #DataExploration #DataManipulation
-
+- https://github.com/AnooshaTariq/data-analyst-portfolio/blob/main/pairplot_retina.png
 
